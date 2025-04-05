@@ -68,7 +68,7 @@ Algoritmo  CalcularCostoProducto
 		Escribir "1 - Zona Norte"
 		Escribir "2 - Zona Centro"
 		Escribir "3 - Zona Sur"
-		Escribir "4 - Isla de Pascua"
+		Escribir "4 - Nueva York"
 		Leer LugarDespacho
 		
 		// Verificar lugar de despacho
